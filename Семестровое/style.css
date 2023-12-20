@@ -1,0 +1,201 @@
+h1 {
+    text-align: center;
+    font-size: 72px;
+    margin-top: auto;
+}
+#aaa{
+    width: 130px;
+    height: 130px;
+    margin-left: 70%;
+ 
+}
+h2 {
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+  
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #994040;
+    padding: 10px;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+header a {
+    font-size: 48px;
+}
+
+header nav ul li a {
+    margin-right: 40px;
+  }  
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+  
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+  
+.about-me,
+.services,
+.work,
+.contact {
+    display: flex;
+    justify-content: space-between;
+}
+#ooo{
+    width: 350px;
+    height: 450px;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+.about-me p {
+    font-size: 44px;
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+}
+
+.work h2 {
+    font-size: 60px;
+}
+
+.service h2 {
+    font-size: 60px;
+}
+
+.service p {
+    font-size: 40px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#aa1{
+    width: 710px;
+    height:400px;
+}
+#aa2{
+    width: 710px;
+    height:400px;
+}
+#qqq{
+    width: 400px;
+    height:300px;
+}
+#qq1{
+    width: 400px;
+    height:300px;
+}
+#qq2{
+    width: 400px;
+    height:300px;
+}
+.service,
+.project {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.service p {
+    text-align: center;
+}
+
+.services a {
+    color: rgba(0, 0, 0, 0.50);
+    text-decoration: none;
+}
+
+.services a:hover {
+    text-decoration: underline;
+}
+
+#work {
+    background-color: #994040;
+}
+
+#contact {
+    background-color: #994040;
+}
+
+.contact p {
+    font-size: 56px;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+     margin-left: 10%;
+}
+  
+.contact-form input{
+    padding: 12px;
+    text-align: left;
+    background-color: #994040;
+    color: black;
+}
+
+select {
+    padding: 12px;
+    background-color: #994040;
+    color: black;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 250px;
+}
+  
+.contact-form button {
+    padding: 12px 50px;
+    background-color: #994040;
+    color: black;
+    cursor: pointer;
+}
+
+.contact-details img {
+    width: 56px;
+    height: 56px;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+footer {
+    background-color: black;
+    color: #994040;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    font-size: 56px;
+}
+#qwq{
+    width: 18em;
+}
+#asa{
+    width: 10%;
+    height: 10%;
+   margin-bottom: auto;
+}
